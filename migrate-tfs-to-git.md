@@ -80,6 +80,3 @@ git push --all origin
 * git-tfs: <https://github.com/git-tfs/git-tfs>
 * Migrate toward external git repository: <https://github.com/git-tfs/git-tfs/blob/master/doc/usecases/migrate_tfs_to_git.md>
 * Migrate from Tfs to Git (ProGit v2 Book): <https://git-scm.com/book/en/v2/Git-and-Other-Systems-Migrating-to-Git#TFS>
-
-
-
