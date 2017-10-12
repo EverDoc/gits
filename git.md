@@ -37,3 +37,10 @@ git push --set-upstream origin <branch>
 ```bash
 git checkout <target commit hash like 'ecdf4'> <file>
 ```
+
+## Revert to specific commit
+
+```bash
+git reset --hard <the commit hash>
+git push -f origin <the commit hash>:<remote branch>
+```
